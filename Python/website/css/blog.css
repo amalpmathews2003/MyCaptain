@@ -1,0 +1,37 @@
+*{
+    font-family: 'Yellowtail', cursive;
+}
+/* nav */
+.name a{
+    text-decoration: none;
+    color:#2f3640;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.accimg{
+    height: 20px;
+}
+
+/* blog */
+.wrapper{
+    padding-top: 20px;
+}
+
+
+/* sm */
+footer{
+    padding-top: 20px;
+}
+
+.sm span{
+    color: #8395a7;
+}
+.sm a{
+    padding: 5px;
+    text-decoration: none;
+}
+
+.sm a img{
+    height: 30px;
+}
